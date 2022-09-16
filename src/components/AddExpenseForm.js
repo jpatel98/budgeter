@@ -24,8 +24,8 @@ const AddExpenseForm = () => {
 	};
 
 	return (
-		<form onSubmit={onSubmit}>
-			<div className='row'>
+		<form onSubmit={onSubmit} className="w-50">
+			<div className='col w-50'>
 				<div className='col-sm'>
 					<label for='name'>Name</label>
 					<input
