@@ -1,5 +1,5 @@
 
-# Budgeter
+# [Budgeter](https://budget-planr.netlify.app/)
 A minimal react app that allow users to set up a budget and add / delete transactions.
 ## Tech Used
 
